@@ -8,15 +8,15 @@ This project focuses on creating a  social media database, it has designed for s
 
 # Key Features:- 
 
-User Data Management: The database efficiently handles multiple user  profiles, tracking their followers , and interactions on the platform activity.
+→ User Data Management: The database efficiently handles multiple user  profiles, tracking their followers , and interactions on the platform activity.
 
-Social Activity: I have designed the system to track all social media activities such as likes, comments, and read message, sent message or comment.
+→ Social Activity: I have designed the system to track all social media activities such as likes, comments, and read message, sent message or comment.
 
-SQL Queries: Through well-structured SQL queries, I establish the relationships between different entities such as users_info, post, notification and many more. The queries highlight the connections between social media activities.
+→ SQL Queries: Through well-structured SQL queries, I establish the relationships between different entities such as users_info, post, notification and many more. The queries highlight the connections between social media activities.
 
-Data Storage: Media files like images  are stored in their true form via URLs, to ensuring that storage is optimized for scalability without compromising the data.
+→ Data Storage: Media files like images  are stored in their true form via URLs, to ensuring that storage is optimized for scalability without compromising the data.
 
-Error Handling: I have incorporated error handling mechanisms to ensure that missing or incomplete data doesn't disrupt the user experience and reliable system.
+→ Error Handling: I have incorporated error handling mechanisms to ensure that missing or incomplete data doesn't disrupt the user experience and reliable system.
 
 # Tool used:-  
 
