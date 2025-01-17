@@ -23,8 +23,11 @@ This project focuses on creating a  social media database, it has designed for s
   ![1](https://github.com/user-attachments/assets/312493af-afbb-40a4-a4ef-0feac0c3693a)        ![Untitled_design-removebg-preview](https://github.com/user-attachments/assets/70a6e4c9-a587-40d3-9ecd-7371b182c67a)
 
 
-# Architecture diagram:-
-The architecture of Social-Media-Analytics with using sql queries
-[Architecture.pdf](https://github.com/user-attachments/files/18442759/Architecture.pdf)
+# Reverse Engineering diagram:-
+
+![ER Diagram](https://github.com/user-attachments/assets/ca3ebc86-cf0a-488d-a2af-98deee91142b)
+
+The ER Diagram of Social-Media-Analytics with using sql queries
+[ER.pdf](https://github.com/user-attachments/files/18449530/ER.pdf)
 
 
